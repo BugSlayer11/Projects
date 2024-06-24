@@ -9,6 +9,15 @@
 [SQL Testing.mp4.zip](https://github.com/user-attachments/files/15959954/SQL.Testing.mp4.zip)
 
 
+
 3. User Story + Test Case (Web API Testing)
+
+   
+4. Automation (Selenium + Cucumber)
+
+   
+5. Python 
+
+
 
 
