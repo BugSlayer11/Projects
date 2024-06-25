@@ -15,7 +15,7 @@
    - Jira w/ plugin Zephyr
    - Postman 3
    
-4. Automation (Smoke Testing w/ Selenium + Cucumber)
+4. Automation (Smoke Test w/ Selenium + Cucumber)
 
 
    
