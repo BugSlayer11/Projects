@@ -24,7 +24,7 @@
 
 
    
-6. Python 
+6. Python (video coming soon)
 
 
 
