@@ -1,4 +1,4 @@
-# QA Engineer Showcase 
+# QA Engineer - Projects 
 
 1. Test Case + Bug Report Example (Web Functional Test)
 [Functional Testing.mp4.zip](https://github.com/user-attachments/files/15972915/Functional.Testing.mp4.zip)
