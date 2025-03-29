@@ -1,4 +1,4 @@
-# QA Engineer - Projects 
+# QA Engineer
 
 1. Test Case + Bug Report Example (Web Functional Test)
 [Functional Testing.mp4.zip](https://github.com/user-attachments/files/15972915/Functional.Testing.mp4.zip)
@@ -21,11 +21,3 @@
    - Webdriver: Selenium
    - BDD Tool: Cucumber
    - IDE: Visual Studio Code
-
-
-   
-6. Python (video coming soon)
-
-
-
-
